@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.2608b01a.css",
-    "main.js": "/Portfolio/static/js/main.d1d7427f.js",
-    "static/media/Sai_Praneeth_veerapalli_Resume.pdf": "/Portfolio/static/media/Sai_Praneeth_veerapalli_Resume.37fd6cdfa9922bd9d49d.pdf",
-    "static/media/profilepic.jpg": "/Portfolio/static/media/profilepic.558a45882d9c9ca5be8b.jpg",
-    "static/media/customerservicewhite.png": "/Portfolio/static/media/customerservicewhite.e992dbebf72749a05c7f.png",
-    "static/media/gameDark.png": "/Portfolio/static/media/gameDark.b3b846f6c7bba18ab4f1.png",
-    "static/media/quizDark.png": "/Portfolio/static/media/quizDark.e018620358c914979559.png",
-    "static/media/customerServiceDark.png": "/Portfolio/static/media/customerServiceDark.09aa27928018edf60c39.png",
-    "static/media/portfolioDark.png": "/Portfolio/static/media/portfolioDark.0291f2742f74b1760071.png",
-    "static/media/portfolioLight.png": "/Portfolio/static/media/portfolioLight.45272d7711549d27ddd8.png",
-    "index.html": "/Portfolio/index.html",
-    "main.2608b01a.css.map": "/Portfolio/static/css/main.2608b01a.css.map",
-    "main.d1d7427f.js.map": "/Portfolio/static/js/main.d1d7427f.js.map"
+    "main.css": "/my-react-app/static/css/main.2608b01a.css",
+    "main.js": "/my-react-app/static/js/main.4eddc970.js",
+    "static/media/Sai_Praneeth_veerapalli_Resume.pdf": "/my-react-app/static/media/Sai_Praneeth_veerapalli_Resume.37fd6cdfa9922bd9d49d.pdf",
+    "static/media/profilepic.jpg": "/my-react-app/static/media/profilepic.558a45882d9c9ca5be8b.jpg",
+    "static/media/customerservicewhite.png": "/my-react-app/static/media/customerservicewhite.e992dbebf72749a05c7f.png",
+    "static/media/gameDark.png": "/my-react-app/static/media/gameDark.b3b846f6c7bba18ab4f1.png",
+    "static/media/quizDark.png": "/my-react-app/static/media/quizDark.e018620358c914979559.png",
+    "static/media/customerServiceDark.png": "/my-react-app/static/media/customerServiceDark.09aa27928018edf60c39.png",
+    "static/media/portfolioDark.png": "/my-react-app/static/media/portfolioDark.0291f2742f74b1760071.png",
+    "static/media/portfolioLight.png": "/my-react-app/static/media/portfolioLight.45272d7711549d27ddd8.png",
+    "index.html": "/my-react-app/index.html",
+    "main.2608b01a.css.map": "/my-react-app/static/css/main.2608b01a.css.map",
+    "main.4eddc970.js.map": "/my-react-app/static/js/main.4eddc970.js.map"
   },
   "entrypoints": [
     "static/css/main.2608b01a.css",
-    "static/js/main.d1d7427f.js"
+    "static/js/main.4eddc970.js"
   ]
 }
